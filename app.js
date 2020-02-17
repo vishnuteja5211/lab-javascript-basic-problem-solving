@@ -1,12 +1,12 @@
 // Important Note - No Built-in functions to be used
-// Iteration 1: Names and Input
+// Progression 1: Names and Input
 
 // 1.1 Create a variable `ProGrad-1` with the driver's name.
 // 1.2 Print `"The driver's name is XXXX"`.
 // 1.3 Create a variable `ProGrad-2` with the navigator's name.
 // 1.4 Print `"The navigator's name is YYYY"`.
 
-// Iteration 2: Control Statements - 1
+// Progression 2: Control Statements - 1
 // 2.1. Depending on which name is longer, print:
 // - The driver has the longest name, it has XX characters. or
 // - It seems that the navigator has the longest name, it has XX characters. or
@@ -21,7 +21,7 @@
 // - Print the number of lower case characters
 
 
-// Iteration 3: Control Statements - 2
+// Progression 3: Control Statements - 2
 // 3.1 Print all the characters of the driver's name, separated by a space and in capitals i.e. "ProGrad"
 
 // 3.2 Print all the characters of the navigator's name, in reverse order. i.e. "darGorP"
