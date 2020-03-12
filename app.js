@@ -15,6 +15,7 @@
 // 2.2. Check if the string contains vowels or not.
 // - If it contains vowels, print the name, and also print the vowel letters along with the vowel index. or
 // - print no vowels
+// - for example. In String ProGrad - o and a are vowels. Print ProGrad o a 2 5. 
 
 // 2.3. Check if the string contains uppercase and lowercase characters Xx
 // - Print the number of upper case characters
