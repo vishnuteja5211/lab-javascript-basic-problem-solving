@@ -13,7 +13,7 @@
 // - Wow, you both have equally long names, XX characters!.
 
 // 2.2. Check if the string contains vowels or not.
-// - If it contains vowels, print the number of name, and also print the vowel letters along with the vowel characters. or
+// - If it contains vowels, print the name, and also print the vowel letters along with the vowel index. or
 // - print no vowels
 
 // 2.3. Check if the string contains uppercase and lowercase characters Xx
